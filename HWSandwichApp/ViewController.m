@@ -15,16 +15,8 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    NSLog(@"hi!!");
-    NSLog(@"hi!!");
-    NSLog(@"hi!!");
-
-    [super viewDidLoad]; //newcomment3
-    NSLog(@"hi!!");
-
-    NSLog(@"hi!!");
-    [super viewDidLoad]; //newcomment3
-
+       [super viewDidLoad];
+    //hi
     // Do any additional setup after loading the view, typically from a nib.
 }
 
