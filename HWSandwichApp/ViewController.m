@@ -15,7 +15,8 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    [super viewDidLoad];
+    [super viewDidLoad]; //newcomment3
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
